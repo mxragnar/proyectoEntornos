@@ -11,7 +11,7 @@ public class Main {
         int indice;
         do {
             System.out.println("=== Menú principal ===");
-            System.out.println("1. Añadir producto");
+            System.out.println("1. Añadir producto:");
             System.out.println("2. Borrar producto");
             System.out.println("3. Modificar producto");
             System.out.println("4. Ver listado de productos");
